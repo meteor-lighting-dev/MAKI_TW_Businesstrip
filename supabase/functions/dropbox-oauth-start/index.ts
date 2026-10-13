@@ -10,7 +10,7 @@ const corsHeaders = {
 const allowedOrigins = new Set([
   "http://localhost:5173",
   "http://localhost:4173",
-  "https://meteor-lighting.github.io",
+  "https://meteor-lighting-dev.github.io",
 ]);
 
 const startHandler = withSupabase(

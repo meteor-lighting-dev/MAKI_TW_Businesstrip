@@ -73,8 +73,8 @@ report.
 
 Under **Authentication > URL Configuration**, set:
 
-- Site URL: `https://meteor-lighting.github.io/MAKI_TW_Businesstrip/`
-- Production redirect: `https://meteor-lighting.github.io/MAKI_TW_Businesstrip/**`
+- Site URL: `https://meteor-lighting-dev.github.io/MAKI_TW_Businesstrip/`
+- Production redirect: `https://meteor-lighting-dev.github.io/MAKI_TW_Businesstrip/**`
 - Local redirect: `http://localhost:5173/**`
 
 The reset page is now opened from the sign-in screen. Users enter their existing
